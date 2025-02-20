@@ -20,7 +20,7 @@ Go to the project directory
   cd ets2server-playerswebhook
 ```
 
-Edit the lines:
+Edit these lines:
 
 ```bash
    WEBHOOK_URL="WEBHOOK HERE" # Insert the webhook link here
