@@ -24,7 +24,7 @@ Edit the lines:
 
 ```bash
    WEBHOOK_URL="WEBHOOK HERE" # Insert the webhook link here
-   LOGFILE_NAME="/home/ets2server/.local/share/Euro Truck Simulator 2/server.log.txt" # Log File Path
+   LOGFILE_NAME="path/to/server.log.txt" # Log File Path
 ```
 
 Start the script running in background
